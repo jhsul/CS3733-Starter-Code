@@ -10,5 +10,7 @@ public class Main {
     System.out.println("Brian");
     System.out.println("Freud");
 
+    TextPrinter printer1= new TextPrinter("Get out of here");
+    printer1.getTextOut();
   }
 }
