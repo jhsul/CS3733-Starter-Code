@@ -9,5 +9,11 @@ public class Main {
     System.out.println("Jack");
     System.out.println("Brian");
 
+    printBrianName();
+
+  }
+
+  static void printBrianName() {
+    System.out.println("Branch - Brian")
   }
 }
